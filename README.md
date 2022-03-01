@@ -1,1 +1,1 @@
-# sonaqube-sample-projects
+# sonarqube-sample-projects
