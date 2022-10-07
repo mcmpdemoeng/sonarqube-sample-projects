@@ -17,4 +17,44 @@ export class AppComponent {
   doOtherStuff() {
     alert('I did other stuff');
   }
+
+  abc(){
+    alert("abc");
+  }
+
+  efg(){
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    alert("efg");
+    if (1==1){
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");
+      alert("efg");      
+    }else{
+      console.log("edf")
+      let f = [1,2,3,4,5];
+      f.forEach( function(t){
+        console.log(t)
+      })
+    }
+  }
+
 }
