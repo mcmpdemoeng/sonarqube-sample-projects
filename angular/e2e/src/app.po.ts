@@ -6,6 +6,8 @@ export class AppPage {
   }
 
   getTitleText() {
+    let password = "abc";
+    let user = "abc";
     return element(by.css('app-root h1')).getText() as Promise<string>;
   }
 }
